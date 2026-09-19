@@ -1,4 +1,4 @@
-# MASA Cyber Arcade Hub
+﻿# MASA Cyber Arcade Hub
 
 A dual-module graphical arcade client combining competitive Rock-Paper-Scissors against computer agents and a grid-based Tic-Tac-Toe engine.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Unified segmented navigation separating game engines into isolated views.
@@ -38,11 +42,12 @@ python "games.py"
 
 ```
 .
-├── games.py
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ games.py
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
